@@ -18,3 +18,5 @@ from langchain_community.document_loaders import TextLoader, DirectoryLoader, Py
 # )
 # dir = dir_loader.load()
 # print(dir)
+
+#test commit
